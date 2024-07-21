@@ -1,5 +1,5 @@
 ﻿
-<local:MyCard Title="公告" Margin="0,5,0,15" CanSwap="True" IsSwaped="False">
+<local:MyCard Title="公告啊" Margin="0,5,0,15" CanSwap="True" IsSwaped="False">
 	<StackPanel Margin="25,40,23,15">
         <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
                     Text="每个 local:MyCard 代表一张卡片，你可以添加、删除格式类似的 MyCard 来添加多个卡片。每个 TextBlock 代表一段文本，你可以在 Text 属性中书写任何你想写的内容，也可以自行添加更多的 TextBlock。" />
