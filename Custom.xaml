@@ -1,0 +1,24 @@
+﻿
+<local:MyCard Title="公告" Margin="0,5,0,15" CanSwap="True" IsSwaped="False">
+	<StackPanel Margin="25,40,23,15">
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
+                    Text="每个 local:MyCard 代表一张卡片，你可以添加、删除格式类似的 MyCard 来添加多个卡片。每个 TextBlock 代表一段文本，你可以在 Text 属性中书写任何你想写的内容，也可以自行添加更多的 TextBlock。" />
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" FontSize="11"
+                    Text="你可以通过添加、删除属性修改样式，例如上一行的 FontSize 就会将字号改为 11 号。" />
+        <TextBlock TextWrapping="Wrap" Margin="20,5,20,0" Foreground="#8C7721"
+                    Text="游戏内自己调整按键绑定" />
+	</StackPanel>
+</local:MyCard>
+
+
+<local:MyCard Title=" " CanSwap="True" Margin="0,160,0,0" IsSwaped="False">
+    <StackPanel Margin="0,0,0,0">
+        <local:MyListItem Margin="0,0,0,0"
+            Logo="pack://application:,,,/images/Blocks/CommandBlock.png"
+            Title="无正版登陆教程（皮肤教程）" Info="建议使用littleskin" EventType="打开网页" EventData="https://docs.qq.com/doc/DR0lrdExOTkVHU3pv" Type="Clickable" />
+
+
+
+    </StackPanel>
+</local:MyCard>
+
