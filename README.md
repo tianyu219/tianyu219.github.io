@@ -5,10 +5,9 @@
 
 ## 本镇宣传图
 ![img.png](picture\img.png)
-- [114514]
+鹅け
 <!-- .slide vertical=true -->
 ## 
 ![img_1.png](picture\img_1.png)
-- [1433223]
-
+雨です
 <!-- .slide vertical=true -->
