@@ -3,26 +3,14 @@ description: | # 头像背后的信息（html格式），<br/>代表换行
   <a href="mailto:site@wu-kan.cn">
     <i class="fa-solid fa-envelope"></i>
   </a>
-  <a href="https://github.com/wu-kan">
+  <a href="https://github.com/tianyu219">
     <i class="fa-brands fa-github"></i>
-  </a>
-  <a href="https://scholar.google.com/citations?user=aU9P37UAAAAJ">
-    <i class="fa-brands fa-google-scholar"></i>
-  </a>
-  <a href="https://orcid.org/0009-0008-5828-847X">
-    <i class="fa-brands fa-orcid"></i>
-  </a>
-  <a href="https://vjudge.net/user/WuK">
-    <i class="fa-solid fa-smile"></i>
   </a>
   <a href="https://space.bilibili.com/166390020">
     <i class="fa-brands fa-bilibili"></i>
   </a>
-  <a href="https://www.zhihu.com/people/wukan0621">
-    <i class="fa-brands fa-zhihu"></i>
-  </a>
   <br/>
-  水野爱、佐贺偶像是传奇、吹响吧！上低音号、FGO、以及我的黑柴犬吴豆豆
+  阿米诺斯
   <br/>
   「奏でろ 荒ぶる魂」
   <br/>
@@ -54,7 +42,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             disable: false # 是否不显示sidebar
             avatar: # 侧边栏显示的头像
               enable: true
-              img: https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320 # 头像的地址
+              img: https://avatars.githubusercontent.com/u/142192524?s=400&u=5052e6c82936660d60a036d8aa6772ed5821ee63&v=4 # 头像的地址
             nav: # 导航部分的内容，你也可以自己增加文字、图标（来自fontawesome）和对应的链接
               - title: '<i class="fa-solid fa-home fa-fw"></i> 首页'
                 href: /
@@ -243,12 +231,12 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             - | # 网站小图标，可换成你自己的图片，改href中的部分即可
               <link
                 rel="apple-touch-icon-precomposed"
-                href="https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320"
+                href="https://avatars.githubusercontent.com/u/142192524?s=400&u=5052e6c82936660d60a036d8aa6772ed5821ee63&v=4"
               />
               <link
                 rel="shortcut
                 icon"
-                href="https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=32"
+                href="https://avatars.githubusercontent.com/u/142192524?s=400&u=5052e6c82936660d60a036d8aa6772ed5821ee63&v=4"
               />
             - | # 来自lanyon的页面样式，不要改
               <link
