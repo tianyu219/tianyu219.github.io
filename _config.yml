@@ -463,7 +463,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 <script>
                 function initSakanaWidget() {
                   const mizuno = SakanaWidget.getCharacter('takina');
-                  mizuno.image = `tianyu219.github.io/grass_block_side.webp`;
+                  mizuno.image = `https://tianyu219.github.io/grass_block_side.webp`;
                   SakanaWidget.registerCharacter('mizuno', mizuno);
                   let sakana = document.createElement("div");
                   sakana.style.bottom = "0";
