@@ -1,6 +1,6 @@
 # 夏末镇の指南
 
-- [关于夏末镇の相关管理规定](href:/stipulate/)
+- [关于夏末镇の相关管理规定](https://tianyu219.github.io/stipulate/)
 <!-- .slide -->
 
 ## 本镇宣传图
