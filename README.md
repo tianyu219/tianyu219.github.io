@@ -4,10 +4,10 @@
 <!-- .slide -->
 
 ## 本镇宣传图
-![img.png](picture\img.png)
+![img.png](picture/img.png)
 鹅け
 <!-- .slide vertical=true -->
 ## 
-![img_1.png](picture\img_1.png)
+![img_1.png](picture/img_1.png)
 雨です
 <!-- .slide vertical=true -->
