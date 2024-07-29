@@ -1,9 +1,9 @@
-# 夏末镇の指南
+# fake
 
-- [关于夏末镇の相关管理规定](https://tianyu219.github.io/stipulate/)
+- 6
 <!-- .slide -->
 
-## 本镇宣传图
+## 我爱mc
 ![img.png](picture/img.png)
 鹅け
 <!-- .slide vertical=true -->
