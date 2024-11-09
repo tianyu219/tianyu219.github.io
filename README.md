@@ -1,5 +1,4 @@
-## 我在东坤学打胶
-![img.png](img.png)
+![DK1.png](..%2F..%2F..%2FDesktop%2FDK1.png)
 ###### 屎肥狗传
 <!-- .slide -->
 
