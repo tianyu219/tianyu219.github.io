@@ -1,4 +1,4 @@
-![img_1.png](picture/img_1.png)
+![img_1.png](picture/img_1.png)(https://docs.qq.com/doc/DR0tscERobXh5cHht)
 ###### 屎肥狗传
 <!-- .slide -->
 
