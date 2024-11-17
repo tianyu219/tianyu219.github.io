@@ -1,5 +1,5 @@
-## 屎肥狗传
-![img_1.png](picture/img_1.png)(https://docs.qq.com/doc/DR0tscERobXh5cHht)
+
+[![img_1.png](picture/img_1.png)](https://docs.qq.com/doc/DR0tscERobXh5cHht)
 
 <!-- .slide -->
 
