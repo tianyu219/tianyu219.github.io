@@ -1,4 +1,4 @@
-# Moonrise Jekyll Theme [Moon](https://tianyu_219.github.io)
+# Moonrise Jekyll Theme [Moon](https://tianyu219.github.io)
 
 ###### (If you like this theme or using it, please give a :star: for motivation.)
 
