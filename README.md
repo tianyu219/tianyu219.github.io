@@ -2,7 +2,7 @@
 
 ###### (If you like this theme or using it, please give a :star: for motivation.)
 
-🌓 Moonrise is a fresh take on the classic **[Moon](https://github.com/TaylanTatli/Moon)** theme, with a modern design, improved responsiveness, and more customization options.
+🌓 “月升”是一款对经典“月亮”主题的全新演绎，其采用了现代设计，响应速度有所提升，并且提供了更多的自定义选项。
 
 ## Features
 
