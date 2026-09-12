@@ -7,7 +7,7 @@ words_per_minute: 200
 logo: "assets/img/logo.png"
 background: "assets/img/moonrise-background.jpg"
 tiled_bg: true # Set this true if you want to tile your background image, otherwise it will be covered
-locale: en_US
+locale: zh-cn
 url: https://tianyu219.github.io
 
 # Jekyll
@@ -37,19 +37,19 @@ sass:
 #ad-slot:
 #bing-verify:
 #email:
-twitter: username
-facebook: username
-github-url: username
+twitter: tianyu_219
+#facebook: username
+github-url: tianyu219
 #stackoverflow: 123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin: username
 #xing: username
-instagram: username
+instagram: tianyu_219
 #lastfm: username
 #tumblr: username
 #medium: '@username'
 #pinterest: username
 #foursquare: username
-steam: username
+#steam: 
 #dribbble: username
 #youtube: username
 #youtube-channel: channel
